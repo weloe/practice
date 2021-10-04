@@ -142,6 +142,12 @@
     <ClCompile Include="02switch语句.c" />
     <ClCompile Include="01zh.c" />
     <ClCompile Include="03三数取最大.c" />
+    <ClCompile Include="05dowhile.c" />
+    <ClCompile Include="04while.c" />
+    <ClCompile Include="06for.c" />
+    <ClCompile Include="07.c" />
+    <ClCompile Include="09嵌套循环.c" />
+    <ClCompile Include="08猜数字.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

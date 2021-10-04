@@ -24,5 +24,23 @@
     <ClCompile Include="03三数取最大.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04while.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05dowhile.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06for.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08猜数字.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09嵌套循环.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
